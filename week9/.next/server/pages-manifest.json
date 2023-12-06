@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Celebrity": "pages/Celebrity.js",
+  "/Home": "pages/Home.js",
+  "/Login": "pages/Login.js",
+  "/MovieDetail": "pages/MovieDetail.js",
+  "/Movies": "pages/Movies.js",
+  "/NotFound": "pages/NotFound.js",
+  "/TV": "pages/TV.js",
+  "/_document": "pages/_document.js"
+}
